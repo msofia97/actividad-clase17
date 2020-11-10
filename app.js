@@ -1,1 +1,1 @@
-let colores = ['naranaja','violeta'];
+let colores = ['naranja','violeta', 'rojo', 'amarillo'];
